@@ -6,12 +6,16 @@ It is inconceiveable that a single model can adequately cover the whole of cyber
 
 ### Essential Pieces to the Cybersecurity Puzzle
 The Cyber Terrain contains:
-* Adversary Models
-* Defender Models
-* Network and Asset Models
-* Vulnerability Models
-* Risk Models
-* Attack Pattern Models 
-* Defense Pattern Models
+* Adversary
+* Defender
+* Asset
+* Vulnerability
+* Risk
+* TTP 
+* Controls
+
+### Upper Ontologies
+* Organization
+* SOSA
 
 The Cyber Terrain Ontology is an ontology that imports the best of breed models.
