@@ -28,6 +28,7 @@
 	
 	<owl:Ontology rdf:about="http://cyberterrain.org/ns/cyberterrain">
 		<rdfs:comment>This is the top ontology of the Cyber Terrain Ontology. It is the ontology that imports all the other ontologies.</rdfs:comment>
+		<owl:imports rdf:resource="http://cyberterrain.org/ns/adversary"/>
 		<owl:imports rdf:resource="http://cyberterrain.org/ns/vulnerability#"/>
 		<owl:imports rdf:resource="http://www.w3.org/ns/org#"/>
 		<owl:imports rdf:resource="http://www.w3.org/ns/sosa/"/>
