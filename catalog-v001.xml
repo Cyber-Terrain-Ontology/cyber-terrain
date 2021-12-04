@@ -69,8 +69,8 @@
     <uri id="User Entered Import Resolution" name="http://docs.oasis-open.org/ns/cti/stix/infrastructure" uri="../adversary/stix-spec/threat-intel/infrastructure.owl"/>
     <uri id="User Entered Import Resolution" name="http://docs.oasis-open.org/ns/cti/stix/tool" uri="../adversary/stix-spec/threat-intel/tool.owl"/>
     <uri id="User Entered Import Resolution" name="http://docs.oasis-open.org/ns/cti/stix/malware" uri="../adversary/stix-spec/threat-intel/malware.owl"/>
-    <uri id="User Entered Import Resolution" name="http://docs.oasis-open.org/ns/cti/stix/core" uri="../adversary/stix-spec/core/stix-core.owl"/>
-    <uri id="User Entered Import Resolution" name="http://docs.oasis-open.org/ns/cti/stix/core/context" uri="../adversary/stix-spec/core/stix-core-context.owl"/>
+    <uri id="User Entered Import Resolution" name="http://docs.oasis-open.org/ns/cti/stix/core" uri="../adversary/stix-spec/core/core.owl"/>
+    <uri id="User Entered Import Resolution" name="http://docs.oasis-open.org/ns/cti/stix/core/context" uri="../adversary/stix-spec/core/core-context.owl"/>
     <uri id="User Entered Import Resolution" name="http://docs.oasis-open.org/ns/cti/stix/grouping/context" uri="../adversary/stix-spec/core/grouping-context.owl"/>
     <uri id="User Entered Import Resolution" name="http://docs.oasis-open.org/ns/cti/stix/identity/context" uri="../adversary/stix-spec/core/identity-context.owl"/>
     <uri id="User Entered Import Resolution" name="http://docs.oasis-open.org/ns/cti/stix/location/context" uri="../adversary/stix-spec/core/location-context.owl"/>
@@ -88,12 +88,15 @@
     <uri id="User Entered Import Resolution" name="http://docs.oasis-open.org/ns/cti/stix/language-content/context" uri="../adversary/stix-spec/meta-objects/language-context.owl"/>
     <uri id="User Entered Import Resolution" name="http://docs.oasis-open.org/ns/cti/stix/language-content" uri="../adversary/stix-spec/meta-objects/language.owl"/>
     <uri id="User Entered Import Resolution" name="http://docs.oasis-open.org/ns/cti/stix/relationship/context" uri="../adversary/stix-spec/relationships/relationship-context.owl"/>
+    <uri id="User Entered Import Resolution" name="http://docs.oasis-open.org/tac/ns/security-playbook" uri="../adversary/stix-semex/security-playbook/security-playbook.owl"/>
     <uri id="User Entered Import Resolution" name="http://docs.oasis-open.org/ns/cti/stix/sighting/context" uri="../adversary/stix-spec/relationships/sighting-context.owl"/>
+    <uri id="User Entered Import Resolution" name="http://docs.oasis-open.org/ns/cti/stix/stix-core" uri="../adversary/stix-spec/core/stix-core.owl"/>
+    <uri id="User Entered Import Resolution" name="http://docs.oasis-open.org/ns/cti/stix/stix-core-context" uri="../adversary/stix-spec/core/stix-core-context.owl"/>
     <uri id="User Entered Import Resolution" name="http://docs.oasis-open.org/ns/cti/stix/relationship" uri="../adversary/stix-spec/relationships/relationship.owl"/>
     <uri id="User Entered Import Resolution" name="http://docs.oasis-open.org/ns/cti/stix/sighting" uri="../adversary/stix-spec/relationships/sighting.owl"/>
     <uri id="User Entered Import Resolution" name="http://docs.oasis-open.org/ns/cti/stix/vocabulary" uri="../adversary/stix-spec/vocabularies/vocab.owl"/>
     <uri id="User Entered Import Resolution" name="http://docs.oasis-open.org/ns/cti/stix/vocabulary-user-defs" uri="../adversary/stix-spec/vocabularies/vocabulary-user-defs.owl"/>
     <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
-        <uri id="Automatically generated entry, Timestamp=1636070996157" name="http://cyberterrain.org/ns/cyberterrain" uri="cyberterrain.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1636083644422" name="http://cyberterrain.org/ns/cyberterrain" uri="cyberterrain.owl"/>
     </group>
 </catalog>
