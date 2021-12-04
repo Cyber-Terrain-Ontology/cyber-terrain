@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
-    <uri id="Imports Wizard Entry" name="http://cyberterrain.org/ns/vulnerability#" uri="../vulnerability/vulnerability.owl"/>
-    <uri id="Imports Wizard Entry" name="http://www.w3.org/ns/sosa/" uri="../sosa/sosa.owl"/>
-    <uri id="Imports Wizard Entry" name="http://www.w3.org/ns/org#" uri="../organization/org.owl"/>
+    <uri id="User Entered Import Resolution" name="http://cyberterrain.org/ns/vulnerability#" uri="../vulnerability/vulnerability.owl"/>
+    <uri id="User Entered Import Resolution" name="http://www.w3.org/ns/sosa/" uri="../sosa/sosa.owl"/>
+    <uri id="User Entered Import Resolution" name="http://www.w3.org/ns/org#" uri="../organization/org.owl"/>
     <uri id="User Entered Import Resolution" name="http://cyberterrain.org/ns/adversary" uri="../adversary/adversary.owl"/>
     <uri id="User Entered Import Resolution" name="http://docs.oasis-open.org/tac/ns/tac" uri="../adversary/tac/tac.owl"/>
     <uri id="User Entered Import Resolution" name="http://docs.oasis-open.org/ns/cti/stix" uri="../adversary/stix-spec/stix.owl"/>
@@ -97,6 +97,6 @@
     <uri id="User Entered Import Resolution" name="http://docs.oasis-open.org/ns/cti/stix/vocabulary" uri="../adversary/stix-spec/vocabularies/vocab.owl"/>
     <uri id="User Entered Import Resolution" name="http://docs.oasis-open.org/ns/cti/stix/vocabulary-user-defs" uri="../adversary/stix-spec/vocabularies/vocabulary-user-defs.owl"/>
     <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
-        <uri id="Automatically generated entry, Timestamp=1636083644422" name="http://cyberterrain.org/ns/cyberterrain" uri="cyberterrain.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1638659653736" name="http://cyberterrain.org/ns/cyberterrain" uri="cyberterrain.owl"/>
     </group>
 </catalog>
